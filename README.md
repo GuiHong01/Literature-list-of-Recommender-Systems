@@ -12,3 +12,20 @@
 - Learning Choice Models for Simulating Users'Interactions with Recommender Systems[(PDF)](https://ceur-ws.org/Vol-3228/paper4.pdf)
 - Recommender Systems Alone Are Not Everything:Towards a Broader Perspective in the Evaluation of Recommender Systems [(PDF)](https://ceur-ws.org/Vol-3228/paper5.pdf)
 - Towards Comparing Recommendation to Multiple-Query Search Sessions for Talent Search [(PDF)](https://ceur-ws.org/Vol-3228/paper6.pdf)
+
+  
+-2021年
+- Coupled or Decoupled Evaluation for Group Recommendation Methods?[(PDF)](https://ceur-ws.org/Vol-2955/paper1.pdf)
+- Evaluating recommender systems with and for children: towards a multi-perspective framework[(PDF)](https://ceur-ws.org/Vol-2955/paper2.pdf)
+- MOCHI: an Offline Evaluation Framework for Educational Recommendations[(PDF)](https://ceur-ws.org/Vol-2955/paper3.pdf)
+- Modeling Online Behavior in Recommender Systems: The Importance of Temporal Context[(PDF)](https://ceur-ws.org/Vol-2955/paper4.pdf)
+- On Evaluating Session-Based Recommendation with Implicit Feedback[(PDF)](https://ceur-ws.org/Vol-2955/paper5.pdf)
+- Prediction Accuracy and Autonomy[(PDF)](https://ceur-ws.org/Vol-2955/paper6.pdf)
+- Recommender systems meet species distribution modelling[(PDF)](https://ceur-ws.org/Vol-2955/paper7.pdf)
+- Sequence or Pseudo-Sequence?[(PDF)](https://ceur-ws.org/Vol-2955/paper8.pdf)
+- Statistical Inference: The Missing Piece of RecSys Experiment Reliability Discourse[(PDF)](https://ceur-ws.org/Vol-2955/paper9.pdf)
+- Time-dependent Evaluation of Recommender Systems[(PDF)](https://ceur-ws.org/Vol-2955/paper10.pdf)
+- Toward Benchmarking Group Explanations:Evaluating the Effect of Aggregation Strategies versus Explanation[(PDF)](https://ceur-ws.org/Vol-2955/paper11.pdf)
+- Unboxing the Algorithm[(PDF)](https://ceur-ws.org/Vol-2955/paper12.pdf)
+
+
