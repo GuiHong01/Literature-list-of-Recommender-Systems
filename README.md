@@ -15,6 +15,7 @@
 
   
 -2021年
+-评估视角
 - Coupled or Decoupled Evaluation for Group Recommendation Methods?[(PDF)](https://ceur-ws.org/Vol-2955/paper1.pdf)
 - Evaluating recommender systems with and for children: towards a multi-perspective framework[(PDF)](https://ceur-ws.org/Vol-2955/paper2.pdf)
 - MOCHI: an Offline Evaluation Framework for Educational Recommendations[(PDF)](https://ceur-ws.org/Vol-2955/paper3.pdf)
@@ -27,5 +28,24 @@
 - Time-dependent Evaluation of Recommender Systems[(PDF)](https://ceur-ws.org/Vol-2955/paper10.pdf)
 - Toward Benchmarking Group Explanations:Evaluating the Effect of Aggregation Strategies versus Explanation[(PDF)](https://ceur-ws.org/Vol-2955/paper11.pdf)
 - Unboxing the Algorithm[(PDF)](https://ceur-ws.org/Vol-2955/paper12.pdf)
+
+-知识感知和会话推荐
+- Group Match Prediction via Neural Networks[(PDF)](https://ceur-ws.org/Vol-2960/paper1.pdf)
+- Reviews Are Gold!? On the Link between Item Reviews and Item Preferences[(PDF)](https://ceur-ws.org/Vol-2960/paper2.pdf)
+- On the extraction and use of arguments in recommender systems: A case study in the e-participation domain[(PDF)](https://ceur-ws.org/Vol-2960/paper3.pdf)
+- Constraint-Aware Recommendation of Complex Items[(PDF)](https://ceur-ws.org/Vol-2960/paper4.pdf)
+- On the Need for a Body of Knowledge on RecommenderSystems[(PDF)](https://ceur-ws.org/Vol-2960/paper5.pdf)
+- Knowledge-Based Recommendations for Climbers[(PDF)](https://ceur-ws.org/Vol-2960/paper6.pdf)
+- Target-guided Knowledge-aware Recommendation Dialogue System: An Empirical Investigation[(PDF)](https://ceur-ws.org/Vol-2960/paper7.pdf)
+- Enhancing gazetteers for named entity recognition in conversational recommender systems[(PDF)](https://ceur-ws.org/Vol-2960/paper8.pdf)
+- Voicing Concerns: User-Specific Pitfalls of Favoring Voice over Text in Conversational Recommender Systems[(PDF)](https://ceur-ws.org/Vol-2960/paper9.pdf)
+- GUApp: a Knowledge-aware Conversational Agent for Job Recommendation[(PDF)](https://ceur-ws.org/Vol-2960/paper10.pdf)
+- Adherence and Constancy in LIME-RS Explanations for Recommendation[(PDF)](https://ceur-ws.org/Vol-2960/paper11.pdf)
+- A general model for fair and explainable recommendation in the loan domain[(PDF)](https://ceur-ws.org/Vol-2960/paper12.pdf)
+- Case Study on the Development of a Recommender for Apple Disease Diagnosis with a Knowledge-based Bayesian Network[(PDF)](https://ceur-ws.org/Vol-2960/paper13.pdf)
+- LiGAN: Recommending Artificial Fillers for Police Photo Lineups[(PDF)](https://ceur-ws.org/Vol-2960/paper14.pdf)
+- A General Aspect-Term-Extraction Model for Multi-Criteria Recommendations[(PDF)](https://ceur-ws.org/Vol-2960/paper15.pdf)
+- Improving Media Content Recommendation with Automatic Annotations[(PDF)](https://ceur-ws.org/Vol-2960/paper16.pdf)
+- Conversational recommendations for job recruiters[(PDF)](https://ceur-ws.org/Vol-2960/paper17.pdf)
 
 
